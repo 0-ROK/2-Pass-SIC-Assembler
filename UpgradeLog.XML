@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Simple">
+</Property><Property Name="솔루션 파일" Value="C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.suo">
+</Property><Property Name="Date" Value="2012년 10월 2일 화요일">
+</Property><Property Name="Time" Value="오후 16:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Simple.sln" Description="파일을 C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="Simple.suo" Description="파일을 C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Simple" Source="Simple.vcproj" Description="Converting project file 'C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Simple" Source="Simple.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Simple" Source="Simple.vcproj" Description="MSB8012: $(TargetPath) ('C:\Documents and Settings\juyg\바탕 화면\Simple\.\Release\Simple.exe') does not match the Linker's OutputFile property value '.\Release/Simple.exe' ('C:\Documents and Settings\juyg\바탕 화면\Simple\Release/Simple.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Simple" Source="Simple.vcproj" Description="MSB8012: $(TargetPath) ('C:\Documents and Settings\juyg\바탕 화면\Simple\.\Debug\Simple.exe') does not match the Linker's OutputFile property value '.\Debug/Simple.exe' ('C:\Documents and Settings\juyg\바탕 화면\Simple\Debug/Simple.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Simple" Source="Simple.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\juyg\바탕 화면\Simple\Simple.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Simple" Source="Simple.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Simple.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="Simple.sln" Description="Converted">
+</Event></UpgradeLog>
