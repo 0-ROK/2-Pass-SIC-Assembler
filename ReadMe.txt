@@ -1,6 +1,6 @@
 Blog post :
 
-http://rookieyun.tistory.com/22
+https://yunsangq.github.io/articles/2014-06/sicassembler
 
 MFC Program
 
